@@ -2,7 +2,7 @@
 ![IMG_3256](https://github.com/user-attachments/assets/2556a84c-2d23-4a5f-883f-f40ffe1d7261)
 
 
-Welcome to the **New Home Model 534 Deluxe Instruction Book** repository!  
+Welcome to the **New Home Model 532 & Model 534 Deluxe Instruction Book** repository!  
 
 This repository contains a digital copy of the instruction manual for **The New Home Sewing Machine Company's Model 534 Deluxe**, manufactured by **Janome Sewing Machine Co., Ltd.** in Japan.  
 
@@ -26,9 +26,12 @@ This repository may be useful for those interested in:
 - Sewing machine manuals  
 - The New Home Sewing Machine Company  
 - New Home Model 534 Deluxe  
+- New Home Model 532  
 - Janome sewing machines  
 - Sewing machine schematics and documentation  
 
 ---
+NOTE: The Janome New Home Model 534 is identical to the Model 532, except that the 534 includes a hatch for pattern cams to sew decorative stitches, while the 532 lacks cam capability.
+
 
 Feel free to use this repository for research, reference, or educational purposes! If you have additional resources or feedback, contributions are welcome.  
